@@ -77,6 +77,7 @@ public class Main {
 Для реализации данного задания был создан класс, создающий текстовый файл [**numbers.txt**](https://github.com/MironovNikita/sber-homework10/blob/main/src/main/resources/numbers.txt), содержащий в себе число от 1 до 50. Данный класс называется [**`CreateFile`**](https://github.com/MironovNikita/sber-homework10/blob/main/src/main/java/org/example/CreateFile.java). Он сохраняет файл с числами в папку [**resources**](https://github.com/MironovNikita/sber-homework10/tree/main/src/main/resources).
 
 Сам файл после создания выглядит так:
+
 ![numbers](https://github.com/MironovNikita/sber-homework10/blob/main/res/numbers.png)
 
 Затем были реализованы классы [**`FactorialCalculator`**](https://github.com/MironovNikita/sber-homework10/blob/main/src/main/java/org/example/FactorialCalculator.java) и [**`FactorialPrinter`**](https://github.com/MironovNikita/sber-homework10/blob/main/src/main/java/org/example/FactorialPrinter.java).
